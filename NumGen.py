@@ -1,5 +1,4 @@
 import random
-import time
 import sys
 
 minimum = int(input('Enter the minimum number. '))
